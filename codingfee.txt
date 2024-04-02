@@ -1,0 +1,52 @@
+<html>
+<head>
+<title> SKUASY </title>
+<body>
+<banner>
+<img src="squash.jpeg" alt="squash.jpeg" style="width:300px:height:23-px;">
+</banner>
+<center> <p>
+                        halaman pertama
+</center>
+                  <a href="pengertianskuasy.html">
+PENGERTIAN SKUASY </a><p> <p>
+                  <a href="latarbelakangskuasy.html">
+LATAR BELAKANG SKUASY </a><p> <p> 
+
+<title> Maklumat </title>
+</head>
+<body>
+<center>
+<h1>KELENGKAPAN</h1>
+<h2> <p>
+<img src="raketskuasy.jpeg" alt="raketskuasy.jpeg" style="width:300px:height:23-px;"><p>
+          1.Pilih raket dengan berhati-hati <p> memperhatikan setiap butiran. Jika anda               membandingkannya dengan raket tenis, maka akan lebih mudah. Kaedah skuasy               membenarkan penggunaan raket berat yang berbeza dan di sini mesti dipandu oleh               prinsip: semakin raket, semakin kuat pukulan. Pemula dinasihatkan untuk               memulakan kecil, yang akan membolehkan kita mempelajari prinsip permainan               yang berjaya. Berat raket berbeza-beza antara 120 hingga 210 g.<p>
+
+<img src="bolaskuasy.jpeg" alt="bolaskuasy.jpeg" style="width:300px:height:23-px;"><p>
+          2.kesilapan untuk mempercayai bahawa anda boleh menggunakan bola untuk bermain squash.<p> Ciri membezakan utamanya ialah kehadiran titik-titik dan warna mereka. Tanda-tanda semacam itu digunakan untuk menandakan kekuatan pemulihan dan kelajuan, contohnya, jika skuasy mempunyai dua titik kuning, ia menunjukkan bahawa ia perlahan dan mempunyai lantunan lemah. Dalam kebanyakan kes, ia digunakan oleh pemain profesional, kerana mereka mempunyai kekuatan impak yang besar.Pemula digalakkan menggunakan bola yang mempunyai satu titik biru atau satu merah. Mereka mempunyai kelajuan yang baik dan yang terbaik, berbanding pilihan lain, pemulihan. Ia akan berguna untuk mengetahui kapan menggantikan bola. Pakar mengatakan bahawa ini perlu dilakukan selepas logo pengilang dipadam dan permukaan menjadi licin ke sentuhan.<p>
+
+<img src="peralatanskuasy.jpeg" alt="peralatanskuasy.jpeg" style="width:300px:height:23-px;"><p>
+          3.Jika anda ingin terlibat dalam sukan ini<p> penting untuk memberi perhatian bukan sahaja untuk membeli peralatan asas, tetapi juga peralatan, yang termasuk kasut, pakaian dan aksesori khas. Seorang jurulatih skuasy boleh memberikan cadangannya mengenai pilihan perkara, tetapi ada prinsip umum yang boleh diikuti. Sekiranya anda ingin terlibat secara serius dalam sukan ini, maka anda tidak perlu menyimpan pada pembelian barang-barang berkualiti.<p>
+(a)Sneakers for squash<p>
+*Kasut untuk skuasy sepatutnya ringan, supaya tidak melambatkan reaksi dan tidak menyebabkan kecederaan.<p>
+*Satu-satunya harus tidak menandakan, iaitu tidak meninggalkan jalur hitam dan kesan lain di lantai. Pilih satu model dengan getah tunggal, kerana bahan ini menyediakan cengkaman kasut dan seks yang baik, jadi risiko tergelincir diminimumkan.<p>
+*Dalam kasut, sepatutnya menjadi kejutan yang baik pada tumit, kerana kerana pergerakan tiba-tiba boleh mendapat masalah dengan sendi. Nah, jika di kasut terdapat pad khas yang mengurangkan stres yang dialami oleh kaki semasa permainan.<p>
+*Kaki kasut yang sesuai harus "bernafas", ini penting agar tidak terlalu panas kaki, tetapi juga kuat, supaya kasut dipelihara selama bertahun-tahun dan tidak digosok.<p>
+*Paling penting adalah perlindungan sampingan, iaitu penyisipan getah.<p>
+*Bagi latar belakang, ia mesti menjadi sukar, kerana ia adalah penting untuk melindungi buku lali dari kerosakan.<p>
+(b)Pakaian untuk skuasy<p>
+*Tiada peraturan yang jelas mengenai pakaian. Bentuk untuk skuasy adalah sama dengan yang dimainkan dalam tenis, iaitu keperluan utama untuk itu adalah keselesaan maksimum. Lelaki dalam kebanyakan kes lebih suka memakai T-shirt dan seluar pendek, dan kanak-kanak perempuan - baju T-shirt dan seluar pendek skirt atau seluar pendek sukan. Di samping itu, disyorkan memakai pembalut khas pada kepala dan pergelangan tangan, yang direka untuk menyerap peluh.<p>
+</center>
+<form method='post'>
+  <center>
+Komen:<br/>
+<textarea name='komen'id='komen'>
+  </center>
+</textarea><br/>
+<input type='hidden'name'=articleid'
+id=articleid'value='<? echo $_GET["id"];?>'/>
+<input type='submit'value='Hantar'/>
+</form>
+</head>
+</body>
+</html>
